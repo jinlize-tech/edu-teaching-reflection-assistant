@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-035",
+  "repository_name": "edu-teaching-reflection-assistant",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-teaching-reflection-assistant-v1.0.0.zip",
+  "sha256": "049E7D21DB085AFA282943175520DC725366A9035BA2B2F3E8B36B9357618D4D",
+  "bytes": 4897,
+  "entries": [
+    "edu-teaching-reflection-assistant/SKILL.md",
+    "edu-teaching-reflection-assistant/references/DOMAIN_GUIDE.md",
+    "edu-teaching-reflection-assistant/references/EXAMPLES.md",
+    "edu-teaching-reflection-assistant/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:17:02.6358597+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
