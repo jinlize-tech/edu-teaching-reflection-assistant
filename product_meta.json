@@ -6,19 +6,36 @@
   "repository_name": "edu-teaching-reflection-assistant",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-teaching-reflection-assistant-v1.0.0.zip",
+  "baseline_commit": "fd551c2f9d1aea9245afd7c1fbd00244ebad20a3",
+  "package_path": "dist/edu-teaching-reflection-assistant-v1.0.1.zip",
+  "previous_package_path": "dist/edu-teaching-reflection-assistant-v1.0.0.zip",
+  "previous_package_sha256": "049E7D21DB085AFA282943175520DC725366A9035BA2B2F3E8B36B9357618D4D",
   "calculator": false,
   "core_input": "课堂事实记录、教学目标、学生反应、教师困惑和同事反馈",
   "main_output": "事实与判断分离的反思、问题排序、改进实验和下次观察点",
+  "main_output_fields": [
+    "事实与判断分离的反思",
+    "问题排序",
+    "改进实验和下次观察点"
+  ],
   "package_entries": [
     "edu-teaching-reflection-assistant/SKILL.md",
     "edu-teaching-reflection-assistant/references/DOMAIN_GUIDE.md",
     "edu-teaching-reflection-assistant/references/EXAMPLES.md",
-    "edu-teaching-reflection-assistant/templates/OUTPUT_TEMPLATE.md"
+    "edu-teaching-reflection-assistant/templates/OUTPUT_TEMPLATE.md",
+    "edu-teaching-reflection-assistant/README.md",
+    "edu-teaching-reflection-assistant/USAGE.md",
+    "edu-teaching-reflection-assistant/LICENSE",
+    "edu-teaching-reflection-assistant/THIRD_PARTY_NOTICES.md",
+    "edu-teaching-reflection-assistant/scripts/validate_input.js"
   ]
 }
